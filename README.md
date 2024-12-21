@@ -1,3 +1,6 @@
+# Information
+In this forked repo I will be adding my own solutions for each of the exercises in the notebooks folder.
+
 # scikit-learn course
 
 📢 📢 📢 A new session of the [Machine learning in Python with scikit-learn
